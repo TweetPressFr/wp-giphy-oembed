@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: scripts/main/index.js:150
+msgid "Via Giphy"
+msgstr ""
+
+#: scripts/main/index.js:157
+msgid "Giphy"
+msgstr ""
+
+#: scripts/main/index.js:163
+msgid "gi"
+msgstr ""
+
+#: scripts/main/index.js:163
+msgid "gif"
+msgstr ""
+
+#: scripts/main/index.js:163
+msgid "gifs"
+msgstr ""
+
+#: scripts/main/index.js:38
+msgid "Giphy URL"
+msgstr ""
+
+#: scripts/main/index.js:82
+msgid "Enter URL to embed here..."
+msgstr ""
+
+#: scripts/main/index.js:98
+msgid "Embed"
+msgstr ""

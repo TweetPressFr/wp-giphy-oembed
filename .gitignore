@@ -1,0 +1,5 @@
+scripts/*/build
+node_modules
+wp-giphy-oembed.zip
+.DS_Store
+svn

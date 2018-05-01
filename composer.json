@@ -1,0 +1,22 @@
+{
+  "name": "tweetpressfr/wp-giphy-oembed",
+  "keywords": [
+    "WordPress",
+    "oembed",
+    "giphy",
+    "API"
+  ],
+  "homepage": "https://github.com/TweetPressFr/wp-giphy-oembed",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "TweetPressFr",
+      "email": "contact@tweetpress.fr"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "description": "Giphy in WordPress the oEmbed way",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
